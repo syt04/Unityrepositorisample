@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a40b5d414d305694f81423034d319f33, type: 3}
+  m_Name: AHaniSkil
+  m_EditorClassIdentifier: 
+  skilName: AHaniSkil
+  description: "A\u3068\u3044\u3046\u7BC4\u56F2\u30B9\u30AD\u30EB"
+  useSp: 3
+  needlv: 2
+  attackRengeMin: 1
+  attackRengeMax: 3
+  maxAttackCount: 6
+  efect: {fileID: 1247311384876784, guid: 4adffb0018aeda44e9263f901167af1f, type: 3}
+  strengethho: 1
+  intellectho: 0
+  koteiDame: 0
+  needDirection: 1
+  abnormalcondition: {fileID: 11400000, guid: 02d3829d61f5c2d4a80713ab90415c93, type: 2}
+  SkilHani: 010000000100000002000000

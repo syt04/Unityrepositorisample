@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49cad7e8732bcd34cb27814e7c943dbb, type: 3}
+  m_Name: BAbnormal
+  m_EditorClassIdentifier: 
+  conditionName: BAbnormal
+  description: "\u79FB\u52D5\u529B\u304C1\u30DE\u30B9\u6E1B\u5C11"
+  lifeDame: 0
+  conditionintellect: 0
+  conditionagility: 0
+  conditionstrength: 0
+  conditionyoroi: 0
+  conditionmoveAmount: -1
+  canAttack: 1
+  canMove: 1
+  conditionF: 0
+  conditionW: 0
+  conditionR: 0
+  statuscondition: 0
+  turnEndcondition: 0
+  zanzonTurn: 3
+  movementcondition: 1

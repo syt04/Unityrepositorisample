@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dac115d8f6a36ea4e9b6029edd8e23d0, type: 3}
+  m_Name: "\u5F13\u5175"
+  m_EditorClassIdentifier: 
+  gata: 3
+  warPotential: 0
+  moveAmount: 3
+  attackRangeMin: 2
+  attackRangeMax: 2
+  lifeMax: 22
+  maxSp: 5
+  strength: 8
+  intellect: 7
+  armor: 4
+  agility: 2
+  skils:
+  - {fileID: 11400000, guid: c4abc58a6edb30d4eb3fdce123ae43a2, type: 2}
+  - {fileID: 11400000, guid: e71ea2fda7fc66043a6b272982ccc022, type: 2}
+  - {fileID: 11400000, guid: 914ef1534fd18834ca45d85b744c79b5, type: 2}
+  animation: UnitAController
+  unitName: "\u5F13\u5175"
+  unitimage: {fileID: 778407276202536082, guid: da45e085a21f7024b997efdb1e1d2ea9,
+    type: 3}
+  description: "\u9060\u8DDD\u96E2\u304B\u3089\u653B\u6483\u53EF\u80FD\u306A\u30E6\u30CB\u30C3\u30C8"
+  hpGrowthRate: 35
+  spGrowthRate: 20
+  strengthGrowthRate: 40
+  armorGrowthRate: 20
+  intellectGrowthRate: 55
+  agilityGrowthRate: 15

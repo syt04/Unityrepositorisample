@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b11f1faedea4147936f7430a5d2a4a, type: 3}
+  m_Name: ASpelSkil
+  m_EditorClassIdentifier: 
+  skilName: ASpelSkil
+  description: "A\u3068\u3044\u3046\u30B9\u30DA\u30EB"
+  useSp: 3
+  needlv: 1
+  attackRengeMin: 1
+  attackRengeMax: 3
+  maxAttackCount: 5
+  efect: {fileID: 100000, guid: 77ec3c4e07a36814fb3169ecef41b50a, type: 3}
+  strengethho: 1
+  intellectho: 1
+  koteiDame: 0
+  needDirection: 0
+  abnormalcondition: {fileID: 0}
+  min: 1
+  max: 1

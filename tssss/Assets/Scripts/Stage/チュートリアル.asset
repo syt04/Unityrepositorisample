@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99b5c516512f4b54abb2e371475afd26, type: 3}
+  m_Name: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB"
+  m_EditorClassIdentifier: 
+  StageName: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB"
+  maxstratum: 5
+  popEnemys:
+  - {fileID: 11400000, guid: b30ce64bfa74b234c92d9b3bf4f50a22, type: 2}
+  - {fileID: 11400000, guid: 5664da0f7a7a96d4ea9db7d151dde9cc, type: 2}
+  difficultyRate: 1

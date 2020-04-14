@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0169147102ffb644392cebed3a476eb6, type: 3}
+  m_Name: BSkil
+  m_EditorClassIdentifier: 
+  skilName: BSkil
+  description: "B\u3068\u3044\u3046\u72B6\u614B\u7570\u5E38\u4ED8\u4E0E\u30B9\u30AD\u30EB"
+  useSp: 2
+  needlv: 1
+  attackRengeMin: 3
+  attackRengeMax: 3
+  maxAttackCount: 1
+  efect: {fileID: 100004, guid: f95ff734540a0d749be6571b6cb5b37f, type: 3}
+  strengethho: 0
+  intellectho: 1.2
+  koteiDame: 0
+  needDirection: 0
+  abnormalcondition: {fileID: 11400000, guid: 8429eb66417d9034aa36b6d62f9d8767, type: 2}

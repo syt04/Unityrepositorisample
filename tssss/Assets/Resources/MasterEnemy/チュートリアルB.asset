@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dac115d8f6a36ea4e9b6029edd8e23d0, type: 3}
+  m_Name: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EBB"
+  m_EditorClassIdentifier: 
+  gata: 3
+  warPotential: 2
+  moveAmount: 3
+  attackRangeMin: 2
+  attackRangeMax: 2
+  lifeMax: 16
+  maxSp: 8
+  strength: 10
+  intellect: 10
+  armor: 4
+  agility: 3
+  skils: []
+  animation: 
+  unitName: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u5F13\u5175"
+  unitimage: {fileID: 21300000, guid: ffc718fba562c4046968f8ccf9ebcb93, type: 3}
+  description: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u306E\u305F\u3081\u306B\u547C\u3070\u308C\u305F\u5F13\u5175"
+  hpGrowthRate: 100
+  spGrowthRate: 100
+  strengthGrowthRate: 100
+  armorGrowthRate: 100
+  intellectGrowthRate: 100
+  agilityGrowthRate: 100
